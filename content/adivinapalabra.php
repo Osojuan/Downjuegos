@@ -25,7 +25,7 @@
         <button onclick="cargarNuevaPalabra()">Nueva Palabra</button>
     </section>
 
-    <a href="../content/home-user-l.html" class="rounded-corner-button">Ir al inicio</a>
+    <a href="../content/home-user-l.php" class="rounded-corner-button">Ir al inicio</a>
 
     <script src="../js/scriptadivinapalabra.js"></script>
 

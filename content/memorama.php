@@ -13,7 +13,7 @@
 
    <script src="../js/scriptmemorama.js"></script>
 
-   <a href="../content/home-user-l.html" class="rounded-corner-button">Ir al inicio</a>
+   <a href="../content/home-user-l.php" class="rounded-corner-button">Ir al inicio</a>
 
    <audio id="audioAplausos" src="../audios/aplausos.mp3"></audio>
 

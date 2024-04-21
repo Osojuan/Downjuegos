@@ -20,7 +20,7 @@ $user_created = date("Y-m-d H:i:s");
 $sql = "INSERT INTO users (user_name, user_curp, user_phone, user_address, user_type, user_created) VALUES ('$user_name', '$user_curp', '$user_phone', '$user_address', 'user', '$user_created')";
 if ($conn->query($sql)) {
     echo "<p>Registro insertado con éxito</p>";
-    header("location:../content/home-user.html");
+    header("location:../content/home-user.php");
 } else {
     echo "<p>Hubo un error al ejecutar la sentencia de inserción: {$conn->error}</p>";
 }

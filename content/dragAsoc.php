@@ -5,9 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
-    integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
-    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <link rel="stylesheet" href="../css/dragAsoc.css">
   <script src="../js/dragAsoc.js" defer></script>
 </head>
@@ -37,7 +35,7 @@
     <div class="droppable" data-draggable-id="hippo"><span>Hippo</span></div> -->
   </section>
 
-  <a href="../content/home-user-l.html" class="rounded-corner-button">Ir al inicio</a>
+  <a href="../content/home-user-l.php" class="rounded-corner-button">Ir al inicio</a>
 
   <audio id="audioCorrecto" src="../audios/correcto.mp3"></audio>
   <audio id="audioIncorrecto" src="../audios/incorrecto.mp3"></audio>

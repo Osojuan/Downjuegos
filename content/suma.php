@@ -27,7 +27,7 @@
 		</div>
 	</div>
 
-	<a href="../content/home-user.html" class="rounded-corner-button">Ir al inicio</a>
+	<a href="../content/home-user.php" class="rounded-corner-button">Ir al inicio</a>
 
 	<script src="../js/scriptsuma.js"></script>
 
